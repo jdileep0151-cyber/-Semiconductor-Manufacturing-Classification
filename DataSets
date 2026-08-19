@@ -1,0 +1,11 @@
+## 📊 Dataset
+
+The project uses a semiconductor manufacturing dataset containing sensor measurements for Pass/Fail classification.
+
+The dataset is not included in this repository.
+
+Please download the dataset from the original source and place it at:
+
+`signal-data.csv`
+
+Then run the notebook.
